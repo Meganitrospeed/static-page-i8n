@@ -1,11 +1,11 @@
 {
     "challenge": {
-        "redirect_shortly": "Este proceso está automatizado. Se le redirigirá a su destino previsto en breve.",
+        "redirect_shortly": "Este es un proceso automatico. Se le redirigirá a su destino en breve.",
         "validate_browser": "Validación de su navegador antes de acceder a {http_host}",
         "are_you_human_host": "Eres humano? Se requiere validación para acceder a {http_host}",
         "are_you_human": "Eres humano? Se requiere validación para continuar",
         "enter_captcha_host": "Ingrese el CAPTCHA a continuación para continuar a {http_host}:",
-        "enter_captcha": "Ingrese el CAPTCHA a continuación para continuar:",
+        "enter_captcha": "Rellene el CAPTCHA para continuar:",
         "submit": "enviar",
         "try_again_later": "Este sitio web está tardando más de lo habitual en cargarse, es posible que desee <a href=\"\">intentarlo de nuevo</a> más tarde",
         "unexpected_error": "Parece que se ha producido un error inesperado. Por favor, <a href=\"\">inténtelo de nuevo</a> más tarde.",
@@ -35,7 +35,7 @@
             "description": "El servidor backend no está disponible temporalmente y, por lo tanto, no puede atender esta solicitud. Pedimos disculpas por cualquier inconveniente."
         },
         "clienttimeout": {
-            "title": "Pide tiempo fuera",
+            "title": "Tiempo de espera excedido",
             "description": "Lo sentimos, pero se agotó el tiempo de espera al cargar esta página web. Pedimos disculpas por cualquier inconveniente que esto pueda haber causado."
         },
         "forbidden": {
